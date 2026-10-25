@@ -1,0 +1,4 @@
+interface:
+  display_name: "像素动画代码创作"
+  short_description: "从文案或参考视频制作可复用像素动画，包含动作设计、时间控制与成片对比"
+  default_prompt: "使用 $pixel-code-video，根据我的文案或参考视频制作像素动画，保存可复用代码并导出成片。"

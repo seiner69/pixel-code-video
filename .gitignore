@@ -1,0 +1,11 @@
+node_modules/
+__pycache__/
+.venv/
+demo/
+out/
+*.frames/
+*.render-report.json
+*.comparison.json
+.pixel-compare-*/
+.env
+.env.*

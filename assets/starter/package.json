@@ -1,0 +1,6 @@
+{
+  "name": "pixel-code-film",
+  "private": true,
+  "type": "module",
+  "dependencies": {"puppeteer-core": "25.11.0"}
+}
